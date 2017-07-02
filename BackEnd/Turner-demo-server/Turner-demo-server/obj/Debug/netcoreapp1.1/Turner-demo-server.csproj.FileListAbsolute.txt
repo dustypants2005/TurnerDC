@@ -1,0 +1,9 @@
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\bin\Debug\netcoreapp1.1\Turner-demo-server.deps.json
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\bin\Debug\netcoreapp1.1\Turner-demo-server.runtimeconfig.json
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\bin\Debug\netcoreapp1.1\Turner-demo-server.runtimeconfig.dev.json
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\bin\Debug\netcoreapp1.1\Turner-demo-server.dll
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\obj\Debug\netcoreapp1.1\Turner-demo-server.csprojResolveAssemblyReference.cache
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\obj\Debug\netcoreapp1.1\Turner-demo-server.AssemblyInfo.cs
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\bin\Debug\netcoreapp1.1\Turner-demo-server.pdb
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\obj\Debug\netcoreapp1.1\Turner-demo-server.dll
+C:\projects\Turner\developer-challenge\BackEnd\Turner-demo-server\Turner-demo-server\obj\Debug\netcoreapp1.1\Turner-demo-server.pdb

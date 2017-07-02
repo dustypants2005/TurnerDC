@@ -2,6 +2,7 @@
  * Created by Dustin on 7/2/2017.
  */
 import React, {Component} from "react";
+import TitleDetails from "./TitleDetails";
 
 export default class Title extends Component{
 	constructor(props){
@@ -12,7 +13,10 @@ export default class Title extends Component{
 	}
 	render(){
 		return(
-			<div>Name: {this.props.title.titleName}</div>
+			<div>
+				Name: {this.props.title.titleName} <TitleDetails title={this.props.title}/>
+				
+			</div>
 		)
 	}
 }
